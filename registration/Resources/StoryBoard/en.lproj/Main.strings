@@ -1,0 +1,39 @@
+
+/* Class = "UILabel"; text = "email"; ObjectID = "00k-yv-P94"; */
+"00k-yv-P94.text" = "email";
+
+/* Class = "UILabel"; text = "address"; ObjectID = "2JL-1D-42g"; */
+"2JL-1D-42g.text" = "address";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "GYC-rM-6sr"; */
+"GYC-rM-6sr.text" = "Email";
+
+/* Class = "UIButton"; normalTitle = "Log Out"; ObjectID = "HOU-qr-NuN"; */
+"HOU-qr-NuN.normalTitle" = "Log Out";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "KW1-TB-G7v"; */
+"KW1-TB-G7v.normalTitle" = "Register";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "Kt5-OO-7Na"; */
+"Kt5-OO-7Na.text" = "Password";
+
+/* Class = "UILabel"; text = "name"; ObjectID = "cU7-Te-fum"; */
+"cU7-Te-fum.text" = "name";
+
+/* Class = "UIButton"; normalTitle = "Comfirm"; ObjectID = "ckf-oT-8Sx"; */
+"ckf-oT-8Sx.normalTitle" = "Comfirm";
+
+/* Class = "UIButton"; normalTitle = "Log In"; ObjectID = "gTX-bo-9c2"; */
+"gTX-bo-9c2.normalTitle" = "Log In";
+
+/* Class = "UILabel"; text = " Email"; ObjectID = "hEO-Og-2Gn"; */
+"hEO-Og-2Gn.text" = " Email";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "kBf-qS-lUP"; */
+"kBf-qS-lUP.text" = "Name";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "oPW-xb-nZP"; */
+"oPW-xb-nZP.text" = "Label";
+
+/* Class = "UILabel"; text = " Password"; ObjectID = "yKN-4e-kFJ"; */
+"yKN-4e-kFJ.text" = " Password";
